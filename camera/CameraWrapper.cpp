@@ -97,6 +97,7 @@ static int check_vendor_module()
 
 static const char *KEY_EXPOSURE_TIME = "exposure-time";
 static const char *KEY_EXPOSURE_TIME_VALUES = "exposure-time-values";
+static const char *KEY_IS_OPPO_APP = "oppo-app";
 
 static char *camera_fixup_getparams(int id, const char *settings)
 {
@@ -155,6 +156,8 @@ static char *camera_fixup_setparams(int id, const char *settings)
     ALOGV("%s: original parameters:", __FUNCTION__);
     params.dump();
 #endif
+
+    params.set(KEY_IS_OPPO_APP, "1");
 
     if (params.get(android::CameraParameters::KEY_RECORDING_HINT)) {
         videoMode = (!strcmp(params.get(

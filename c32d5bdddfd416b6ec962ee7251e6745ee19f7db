@@ -16,6 +16,24 @@
       "revId": "c32d5bdddfd416b6ec962ee7251e6745ee19f7db",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a9d85d2_6fc1c02e",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-01-17T13:33:47Z",
+      "side": 1,
+      "message": "Hmm that was done in bacon, ping Steve about it?",
+      "parentUuid": "5a9d85d2_ef5c90ef",
+      "revId": "c32d5bdddfd416b6ec962ee7251e6745ee19f7db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }

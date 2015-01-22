@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_b9c66b14",
+        "filename": "rootdir/etc/fstab.qcom",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-22T20:49:31Z",
+      "side": 1,
+      "message": "Put this below modem.",
+      "revId": "297e691e5f2235ca25ee210f5698ed5f4596aa75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

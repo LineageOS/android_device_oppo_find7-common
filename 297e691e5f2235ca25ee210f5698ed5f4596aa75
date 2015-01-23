@@ -34,6 +34,24 @@
       "revId": "297e691e5f2235ca25ee210f5698ed5f4596aa75",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_df721fad",
+        "filename": "rootdir/etc/fstab.qcom",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-23T12:40:53Z",
+      "side": 1,
+      "message": "mount_all goes in order, if it hits an error on misc it will not get to modem. I guess it\u0027s fine if it\u0027s also like this on bacon. That probably needs to be re-ordered a bit so modem is before persist, misc, etc.",
+      "parentUuid": "fad55976_24236e07",
+      "revId": "297e691e5f2235ca25ee210f5698ed5f4596aa75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }

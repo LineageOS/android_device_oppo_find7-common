@@ -16,6 +16,24 @@
       "revId": "297e691e5f2235ca25ee210f5698ed5f4596aa75",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_24236e07",
+        "filename": "rootdir/etc/fstab.qcom",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-01-23T10:01:38Z",
+      "side": 1,
+      "message": "I just followed bacon here, it has it below recovery. Is there a reason that it should go below modem?",
+      "parentUuid": "fad55976_b9c66b14",
+      "revId": "297e691e5f2235ca25ee210f5698ed5f4596aa75",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }

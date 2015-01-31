@@ -20,3 +20,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # CABL is handled by the panel
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.qualcomm.cabl=0
+
+# HACK for QC errata issue
+PRODUCT_PROPERTY_OVERRIDES += \
+    debug.hwui.render_dirty_regions=false

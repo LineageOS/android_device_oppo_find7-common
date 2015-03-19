@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac665da_6e1d3ebd",
+        "filename": "audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 886,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-03-19T12:21:26Z",
+      "side": 1,
+      "message": "Looks like it\u0027s actually switching from ADC5 to ADC4, rather than swapping channels.",
+      "revId": "98606654b52fdabb7a8e0b79446b746547bcd7c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

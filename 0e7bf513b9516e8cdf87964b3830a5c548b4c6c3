@@ -16,6 +16,24 @@
       "revId": "0e7bf513b9516e8cdf87964b3830a5c548b4c6c3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_c711b5b1",
+        "filename": "audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 879,
+      "author": {
+        "id": 10164
+      },
+      "writtenOn": "2015-03-21T02:14:05Z",
+      "side": 0,
+      "message": "Sorry my bad it was literally copied from source.",
+      "parentUuid": "5ac665da_0e0c8a93",
+      "revId": "0e7bf513b9516e8cdf87964b3830a5c548b4c6c3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }

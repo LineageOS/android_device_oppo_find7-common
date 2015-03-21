@@ -16,6 +16,24 @@
       "revId": "98606654b52fdabb7a8e0b79446b746547bcd7c2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ac665da_a71639a5",
+        "filename": "audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 886,
+      "author": {
+        "id": 10164
+      },
+      "writtenOn": "2015-03-21T02:14:05Z",
+      "side": 1,
+      "message": "It does. Im not sure if this is the correct way to do. Source was like this so i don\u0027t think oppo would do that wrong (or cm has changed stuff here which i missed)",
+      "parentUuid": "5ac665da_6e1d3ebd",
+      "revId": "98606654b52fdabb7a8e0b79446b746547bcd7c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }

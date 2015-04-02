@@ -112,6 +112,17 @@ static char *camera_fixup_getparams(int id, const char *settings)
     params.dump();
 #endif
 
+    /* Expose 4k video resolutions */
+    const char *videoSizesStr = params.get(
+            android::CameraParameters::KEY_SUPPORTED_VIDEO_SIZES);
+    char tmpsz[strlen(videoSizesStr) + 20 + 1];
+    sprintf(tmpsz, "4096x2160,3840x2160,%s", videoSizesStr);
+    params.set(android::CameraParameters::KEY_SUPPORTED_VIDEO_SIZES, tmpsz);
+
+    /* Disable video snapshot since it breaks 4k recording */
+    params.set(android::CameraParameters::KEY_VIDEO_SNAPSHOT_SUPPORTED,
+            "false");
+
     if (params.get(android::CameraParameters::KEY_RECORDING_HINT)) {
         videoMode = (!strcmp(params.get(
                 android::CameraParameters::KEY_RECORDING_HINT), "true"));

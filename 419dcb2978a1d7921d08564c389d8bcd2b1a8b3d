@@ -16,6 +16,24 @@
       "revId": "419dcb2978a1d7921d08564c389d8bcd2b1a8b3d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_211b0e74",
+        "filename": "system_prop.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-05-23T05:22:44Z",
+      "side": 1,
+      "message": "Also, that should be qti, not qri",
+      "parentUuid": "9a89bdaa_e1104651",
+      "revId": "419dcb2978a1d7921d08564c389d8bcd2b1a8b3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }

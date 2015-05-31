@@ -25,6 +25,8 @@ vendor/lib/libchromatix_imx214_video_hdr_find7s.so
 vendor/lib/libchromatix_ov5648_common.so
 vendor/lib/libchromatix_ov5648_default_video.so
 vendor/lib/libchromatix_ov5648_default_video_find7s.so
+vendor/lib/libchromatix_ov5648_liveshot.so
+vendor/lib/libchromatix_ov5648_liveshot_find7s.so
 vendor/lib/libchromatix_ov5648_preview.so
 vendor/lib/libchromatix_ov5648_preview_fb.so
 vendor/lib/libchromatix_ov5648_preview_find7s.so
@@ -32,3 +34,4 @@ vendor/lib/libchromatix_ov5648_video_cmcc.so
 vendor/lib/libchromatix_ov5648_zsl.so
 vendor/lib/libchromatix_ov5648_zsl_fb.so
 vendor/lib/libchromatix_ov5648_zsl_find7s.so
+vendor/lib/libseemore.so

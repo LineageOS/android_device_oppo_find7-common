@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df3967d1_3d269ab9",
+        "filename": "rootdir/etc/init.qcom.usb.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-09-27T19:09:51Z",
+      "side": 0,
+      "message": "Do we also need to remove these or adbd still needs to be started manually?",
+      "range": {
+        "startLine": 120,
+        "startChar": 4,
+        "endLine": 120,
+        "endChar": 14
+      },
+      "revId": "d533a027ece38dc8d6968710adfacdff3fb48f9e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_330a6a26",
+        "filename": "rootdir/etc/fstab.recovery",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-04-21T18:23:59Z",
+      "side": 1,
+      "message": "Doesn\u0027t it make sense to replace this entry with the sdcard entry instead? Also, shouldn\u0027t we mount sdcard partition with different flags, like this entry?",
+      "revId": "a64fd7cb1a332361f0946b2e79c8b907e5610f7c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

@@ -35,6 +35,7 @@ PRODUCT_PACKAGES += \
 
 # NFC packages
 PRODUCT_PACKAGES += \
+    android.hardware.nfc@1.0-impl \
     nfc.msm8974 \
     libnfc \
     libnfc_jni \

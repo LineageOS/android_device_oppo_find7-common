@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "81c3c5a9_2d67546e",
+        "filename": "camera/CameraWrapper.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 454,
+      "author": {
+        "id": 1690
+      },
+      "writtenOn": "2017-09-28T23:52:34Z",
+      "side": 1,
+      "message": "is there a reason you moved this instead of just deleting it?",
+      "range": {
+        "startLine": 452,
+        "startChar": 0,
+        "endLine": 454,
+        "endChar": 69
+      },
+      "revId": "e53cf8657daa45465771b631b2631984c410fd06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
